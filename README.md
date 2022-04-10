@@ -1,5 +1,12 @@
 # **Bioinformatics WEb App**
 
+Bioinformatics WEb App is a simple app to do 
+- Transcription
+- Translation
+- GC content
+- Reverse Complement
+
+Students can use this app to perform these simple task
 
 # Running the BI web app
  To recreate this web app on your own computer, do the following.
@@ -14,7 +21,7 @@ Secondly, we will login to the streamlit environment
 > conda activate streamlit
 
 ### Download GitHub repo
-git clonehttps://github.com/IqraMahmood/BI_App
+git clone https://github.com/IqraMahmood/BI_App
 ### Pip install libraries
 > pip install -r requirements.txt
 ### Launch the app
