@@ -6,7 +6,8 @@ Bioinformatics WEb App is a simple app to do
 - GC content
 - Reverse Complement
 
-Students can use this app to perform these simple task
+Students can use this app to perform these simple task. By giving DNA sequence they can do Transcription, Translation, GC content, Reverse Complement
+
 
 # Running the BI web app
  To recreate this web app on your own computer, do the following.
